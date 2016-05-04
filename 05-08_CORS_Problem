@@ -14,3 +14,5 @@ that will enable everyone to access a service.
 
 Or we could provide the app with an API-key so that it can be verified by the server
 and gain access to the methods.
+
+See more here :) : http://blog.ionic.io/handling-cors-issues-in-ionic/

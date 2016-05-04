@@ -4,4 +4,12 @@
 
 
 
+Cordova is an intermediate, a layer if you would like to call it that way that allows you
+to have access to hardware and providers of the phone throw it.
 
+There is a number of Cordova plugins that grants you access to hardware
+ The actual number of plug-ins as of this time counts to more than 70.
+
+  See more here : http://ngcordova.com/docs/plugins/
+
+  

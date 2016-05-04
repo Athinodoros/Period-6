@@ -1,0 +1,12 @@
+----------Explain and demonstrate ways to debug Hybrid Mobile-----------
+----------------Applications Running on a real device-------------------
+
+
+Ionic makes it possible to debug through your browser using sockets and ports from which you
+phone communicates with your browser allowing you to see the console and debug live.
+
+ once you run your device using : ionic run android
+
+ you can open chrome and navigate to: chrome://inspect/#devices
+
+ there you should be able to see your device and access the console.

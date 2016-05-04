@@ -1,0 +1,16 @@
+---------------Explain when and why CORS is a problem for Hybrid Mobile Applications---------------
+
+
+
+Since your app runs in a embeded browser calling an api could be tricky because
+the W3C standards state that browsers need permission to access the HTTP methods
+POST, GET, PUT, PATCH, and DELETE. there for when we design our backend we need
+to specify that we allow cross origin resource sharing (CORS).
+
+To do that we could set the following header:
+Access-Control-Allow-Origin = *
+
+that will enable everyone to access a service.
+
+Or we could provide the app with an API-key so that it can be verified by the server
+and gain access to the methods.

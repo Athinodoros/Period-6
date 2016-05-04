@@ -1,0 +1,17 @@
+------Hybrid mobile app development-----------
+
+
+Hybrid apps are apps that run in a webview in each platform.
+
+ The idea is to code once and export different files to run in each platform (android, ios, windows, blackberry)
+
+ Since you produce code to run in a webview which runs as a browser inside your up you can use HTML to form your content and
+ javascript to code the logic that your app will use.
+
+ Due to their structure this kinds of apps can be tested in a simple browser.
+
+
+All this is made possible buy the use of phone Gap and cordova. You can think of Apache Cordova
+as the engine that powers PhoneGap, similar to how WebKit is the engine that powers Chrome or Safari.
+
+Cordova also gives you access to an api that allows to have access to the phones hardware.

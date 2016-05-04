@@ -1,0 +1,10 @@
+--------Explain about the "building blocks" involved in an ionic Hybrid Application-------
+
+
+Ionic is a framework that uses a number of technologies to achieve the end result.
+
+It uses Angular for logic in the presentation layer
+It uses Cordova to communicate with the phones Hardware.
+It uses HTML5 & Sass for the style and display of the components.
+It uses the ADB to communicate with the phone and enable debugging.
+And finally node to bring all those together :).

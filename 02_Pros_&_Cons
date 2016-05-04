@@ -1,0 +1,52 @@
+----------Explain the Pros & Cons of using Hybrid Mobile App Development----------
+---------------------compared to Native App Development---------------------------
+
+
+
+Native apps
+
+
+--Pros--
+
+1) Native apps have the ability to work with a device’s built-in features, often making them
+faster and easier to work with on a device. Having an app fully integrated with a device
+can be extremely helpful.
+
+2) It is not necessary to have access to the internet to use the app
+
+
+3) Access system hardware and functionality easier and more effectively
+
+--Cons--
+
+1) Native apps tend to be more expensive to the developer. The costs associated with maintenance
+and updates are higher, especially if the app is compatible with more than one type of device.
+
+2) While the app store can be beneficial to a developer, the process involved with approving an
+app can be arduous, and success is not guaranteed.
+
+3) Your final product works in only one family of devices.
+
+Hybrid apps
+
+--Pros--
+
+1) Code one app publish in every platform
+
+2) Easier to maintain (especially when you maintain the app for all the devises at once)
+
+3) Use of Javascript and HTML
+
+
+
+--Cons--
+
+1) Because developing a hybrid app is very similar to developing a website, many developers
+make the mistake of simply copying their web applications to mobile without any kind of redesign.
+
+2)One of the earliest concerns of early hybrid apps was performance. While a number of performance
+issues have been fixed over time, there are a number of framework methods and specific architecture fixes
+(typically a framework like JQuery Mobile) that can make a hybrid app perform more like a native app.
+
+3) After all it is a web app...
+
